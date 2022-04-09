@@ -164,15 +164,15 @@ cv2.destroyAllWindow
 
 
 ### iii) RGB and BGR to YCrCb
-![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S13.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S13.png?raw=true)
 
 
 ### iv) Split and merge RGB Image
-![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S14.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S14.png?raw=true)
 
 
 ### v) Split and merge HSV Image
-![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S15.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/S15.png?raw=true)
 
 ## Result:
 Thus the color conversion was performed between RGB, HSV and YCbCr color models.
