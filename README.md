@@ -157,7 +157,7 @@ cv2.destroyAllWindow
 ## Output:
 
 ### i) BGR and RGB to HSV and GRAY
-![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R1.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R11.png?raw=true)
 
 ### ii) HSV to RGB and BGR
 ![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R2.PNG?raw=true)
