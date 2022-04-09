@@ -160,7 +160,7 @@ cv2.destroyAllWindow
 ![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R11.png?raw=true)
 
 ### ii) HSV to RGB and BGR
-![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R2.PNG?raw=true)
+![output](https://github.com/RuchithaReddy28/Color-Conversion/blob/main/R12.png?raw=true)
 
 
 ### iii) RGB and BGR to YCrCb
